@@ -1,0 +1,13 @@
+/* Write your CSS code here. */
+
+.emoji {
+  height: 70px;
+  width: 70px;
+}
+.emoji-container {
+  text-align: center;
+  margin: 20px;
+}
+.display {
+  display: none;
+}
